@@ -1,0 +1,9 @@
+
+Integrantes 
+Representante- Adrian Rodriguez Aguiñaga 
+Maria de los Angeles Quezada Cisnero 
+Samantha Jimenez Calleros
+
+Implementar una camara termica para el monitoreo de la temperatura corporal
+en areas de aglomeración y accesos, medir calidad del aire mediante sensores de C02 en espacios cerrados y 
+con la finalidad de registrar, procesar y emitir reportes considerando una infraestructura HH/LL para alarmas.
